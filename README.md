@@ -6,6 +6,8 @@ Project Overview
 
 The project involved setting up a robust and secure environment for hosting a WordPress website on AWS by configuring various AWS services, such as EC2, VPC, and RDS. Below is an overview of the architecture and the AWS resources used.
 
+![Uploading 2._Host_a_WordPress_Website_on_AWS.gif…]()
+
 Architecture Components
 
 	1.	Virtual Private Cloud (VPC): Configured a VPC with both public and private subnets across two Availability Zones (AZs) to ensure high availability and fault tolerance.
