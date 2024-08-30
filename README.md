@@ -10,6 +10,7 @@ The project involved setting up a robust and secure environment for hosting a Wo
 
 
 Architecture Components
+
 	•	Virtual Private Cloud (VPC): Configured a VPC with both public and private subnets across two Availability Zones (AZs) to ensure high availability and fault tolerance.
 	•	Internet Gateway: Deployed an Internet Gateway to enable connectivity between instances within the VPC and the Internet.
 	•	Security Groups: Established Security Groups to act as network firewalls, controlling inbound and outbound traffic to instances.
